@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Paul Elvis Otto</title>
+    <link>https://yourusername.github.io/tags/python/</link>
+    <description>Recent content in Python on Paul Elvis Otto</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2023 14:00:00 -0500</lastBuildDate>
+    <atom:link href="https://yourusername.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://yourusername.github.io/tools/jupyter-notebook/</link>
+      <pubDate>Sun, 15 Jan 2023 14:00:00 -0500</pubDate>
+      <guid>https://yourusername.github.io/tools/jupyter-notebook/</guid>
+      <description>&lt;h2 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h2&gt;
+&lt;p&gt;Jupyter Notebook is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.&lt;/p&gt;
+&lt;h2 id=&#34;why-i-like-it&#34;&gt;Why I like it&lt;/h2&gt;
+&lt;p&gt;Jupyter Notebooks provide an interactive environment for exploratory data analysis, making it easy to iterate quickly and visualize results as you go.&lt;/p&gt;
+&lt;h2 id=&#34;use-cases&#34;&gt;Use cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data cleaning and transformation&lt;/li&gt;
+&lt;li&gt;Statistical modeling and machine learning&lt;/li&gt;
+&lt;li&gt;Creating visualizations&lt;/li&gt;
+&lt;li&gt;Documenting analysis workflows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
