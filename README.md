@@ -1,2 +1,3 @@
 # public
-Public repo for website
+Public repo for website and blog
+
