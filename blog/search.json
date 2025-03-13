@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "lists.html",
+    "href": "lists.html",
+    "title": "Lists",
+    "section": "",
+    "text": "This is a collection of great tools and books on datascience, politics and reproduceable code that i want to share. Feel free to use them or suggest me more of them"
+  },
+  {
+    "objectID": "lists.html#on-this-page",
+    "href": "lists.html#on-this-page",
+    "title": "Lists",
+    "section": "",
+    "text": "This is a collection of great tools and books on datascience, politics and reproduceable code that i want to share. Feel free to use them or suggest me more of them"
+  },
+  {
+    "objectID": "lists.html#tools",
+    "href": "lists.html#tools",
+    "title": "Lists",
+    "section": "Tools",
+    "text": "Tools\n\n\n\n\n\n\n\nUV\n\n\n\narchived\n\n\ntechnology\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\nJupyter Notebook/JupyterLab\n\n\n\ndata science\n\n\nreproducibility\n\n\nvisualization\n\n\n\nInteractive computing environment that enables users to create notebook documents that combine live code, equations, visualizations and narrative text.\n\n\n\nJul 30, 2014\n\n\n\n\n\n\n\n\n\n\n\nR Studio\n\n\n\ndata science\n\n\nreproducibility\n\n\nstatistics\n\n\n\nIntegrated development environment for R, a programming language for statistical computing and graphics.\n\n\n\nFeb 28, 2011\n\n\n\n\n\n\n\n\n\n\n\nPython\n\n\n\ndata science\n\n\nprogramming\n\n\ncomputational social science\n\n\n\nVersatile programming language with rich ecosystem of libraries for data analysis, machine learning, and scientific computing.\n\n\n\nFeb 20, 1991\n\n\n\n\n\n\n\n\n\n\n\npandas\n\n\n\ndata science\n\n\ndata manipulation\n\n\n\nFast, powerful, flexible and easy to use open source data analysis and manipulation library for Python.\n\n\n\nDec 1, 2008\n\n\n\n\n\n\n\n\n\n\n\nscikit-learn\n\n\n\nmachine learning\n\n\ndata science\n\n\n\nSimple and efficient tools for predictive data analysis, accessible to everybody, and reusable in various contexts.\n\n\n\nJun 1, 2007\n\n\n\n\n\n\n\n\n\n\n\nNumPy\n\n\n\ndata science\n\n\nscientific computing\n\n\n\nFundamental package for scientific computing with Python, providing support for arrays, matrices, and mathematical functions.\n\n\n\nJan 1, 2006\n\n\n\n\n\n\n\n\n\n\n\nDocker\n\n\n\nreproducibility\n\n\ndeployment\n\n\n\nPlatform that enables developers to package applications into containers—standardized executable components that run consistently on any infrastructure.\n\n\n\nMar 20, 2013\n\n\n\n\n\n\n\n\n\n\n\nGit\n\n\n\nversion control\n\n\nreproducibility\n\n\n\nDistributed version-control system for tracking changes in source code during software development.\n\n\n\nApr 7, 2005\n\n\n\n\n\n\n\n\n\n\n\nGitHub/GitLab\n\n\n\ncollaboration\n\n\nreproducibility\n\n\n\nWeb-based platforms that provide hosting for software development and version control using Git.\n\n\n\nApr 10, 2008\n\n\n\n\n\n\n\n\n\n\n\nQuarto\n\n\n\nreproducibility\n\n\npublishing\n\n\ndata science\n\n\n\nOpen-source scientific and technical publishing system built on Pandoc, supporting multiple languages including R, Python, and Julia.\n\n\n\nJul 28, 2021\n\n\n\n\n\n\n\n\n\n\n\nTensorFlow\n\n\n\nmachine learning\n\n\ndeep learning\n\n\n\nEnd-to-end open source platform for machine learning, with comprehensive ecosystem of tools, libraries, and community resources.\n\n\n\nNov 9, 2015\n\n\n\n\n\n\n\n\n\n\n\nPyTorch\n\n\n\nmachine learning\n\n\ndeep learning\n\n\n\nOpen source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.\n\n\n\nOct 1, 2016\n\n\n\n\n\n\n\n\n\n\n\nSnakemake\n\n\n\nworkflow management\n\n\nreproducibility\n\n\n\nWorkflow management system that aims to reduce the complexity of creating workflows by providing a clean and modern domain-specific language.\n\n\n\nMar 29, 2012\n\n\n\n\n\n\n\n\n\n\n\nDVC (Data Version Control)\n\n\n\nversion control\n\n\nreproducibility\n\n\ndata science\n\n\n\nOpen-source version control system for machine learning projects, designed to handle large files, data sets, machine learning models, and metrics.\n\n\n\nMay 5, 2017\n\n\n\n\n\n\n\n\n\n\n\nNLTK\n\n\n\ncomputational social science\n\n\nnatural language processing\n\n\n\nSuite of libraries and programs for symbolic and statistical natural language processing for English.\n\n\n\nJan 1, 2001\n\n\n\n\n\n\n\n\n\n\n\nspaCy\n\n\n\ncomputational social science\n\n\nnatural language processing\n\n\n\nOpen-source software library for advanced natural language processing in Python.\n\n\n\nJan 1, 2015\n\n\n\n\n\n\n\n\n\n\n\nNetworkX\n\n\n\ncomputational social science\n\n\nnetwork analysis\n\n\n\nPython package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.\n\n\n\nJan 1, 2002\n\n\n\n\n\n\n\n\n\n\n\nGephi\n\n\n\ncomputational social science\n\n\nvisualization\n\n\nnetwork analysis\n\n\n\nOpen-source network analysis and visualization software package written in Java.\n\n\n\nJul 15, 2008\n\n\n\n\n\n\n\n\n\n\n\nBinder\n\n\n\nreproducibility\n\n\nsharing\n\n\n\nService that allows sharing of interactive, executable versions of projects in Git repositories.\n\n\n\nJan 1, 2015\n\n\n\n\n\n\n\n\n\n\n\nConda\n\n\n\npackage management\n\n\nreproducibility\n\n\n\nPackage, dependency and environment management for any language—Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN.\n\n\n\nJan 1, 2012\n\n\n\n\n\n\n\n\n\n\n\nPoetry\n\n\n\npackage management\n\n\nreproducibility\n\n\n\nTool for dependency management and packaging in Python, making it easy to build and share packages.\n\n\n\nFeb 28, 2018\n\n\n\n\n\n\n\n\n\n\n\nTableau\n\n\n\ndata visualization\n\n\ndata science\n\n\n\nInteractive data visualization software focused on business intelligence.\n\n\n\nJan 1, 2003\n\n\n\n\n\n\n\n\n\n\n\nObservable\n\n\n\ndata visualization\n\n\ninteractive computing\n\n\n\nWeb-based, interactive coding environment that enables data visualization and exploration with JavaScript.\n\n\n\nJan 1, 2016\n\n\n\n\n\n\n\n\n\n\n\nMLflow\n\n\n\nmachine learning\n\n\nreproducibility\n\n\n\nOpen source platform for managing the end-to-end machine learning lifecycle, including tracking experiments, packaging code, and sharing models.\n\n\n\nJun 6, 2018\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "lists.html#books",
+    "href": "lists.html#books",
+    "title": "Lists",
+    "section": "Books",
+    "text": "Books\n\n\n\n\n\n\n\nUV\n\n\n\narchived\n\n\ntechnology\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 10, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Paul-Elvis",
+    "section": "",
+    "text": "About this blog"
+  }
+]
