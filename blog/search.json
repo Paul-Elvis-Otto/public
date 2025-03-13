@@ -32,14 +32,21 @@
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 10, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 10, 2025\n\n\nPaul\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "todo.html",
+    "href": "todo.html",
+    "title": "Todo List For the website",
+    "section": "",
+    "text": "Todo List For the website\n\nAdd google sheets integration for books and tools\nAdd importer with python and google sheets api\nStyle the Website\nAdd a CV to the website as pdf and about page\nAdd a projects page where i list contributions as well as Standalone projects"
   },
   {
     "objectID": "about.html",
